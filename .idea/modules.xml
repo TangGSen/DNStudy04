@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DNStudy04.iml" filepath="$PROJECT_DIR$/DNStudy04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvpFramework/MvpFramework.iml" filepath="$PROJECT_DIR$/MvpFramework/MvpFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpframework/httpframework.iml" filepath="$PROJECT_DIR$/httpframework/httpframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissionhelper/permissionhelper.iml" filepath="$PROJECT_DIR$/permissionhelper/permissionhelper.iml" />
+    </modules>
+  </component>
+</project>
